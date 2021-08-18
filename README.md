@@ -12,7 +12,6 @@ Play with microsoft graph API uisng .Net core SDK
 <ul>
 <li>i am NOT able to get Me with property MailboxSettings thus remark</li>
 <li>i gte exception on choice 2 (i did not continue to choice 3)</li>
-
 </ul>
 
 
@@ -20,6 +19,7 @@ Play with microsoft graph API uisng .Net core SDK
 <ul>
 <li>I took gitignore file from <a href='https://github.com/dotnet/core/blob/main/.gitignore'>here</a></li>
 <li>permissions are set nicely via 'dotnet user-secrets set scopes'</li>
+<li>seems that this is not production ready because the user is asked to sign in and enter a code</li>
 </ul>
 
 <h2>Credit</h2>
