@@ -13,7 +13,7 @@ The setup is done according to the credit below. Here are the main points
 <h2>Points of interest</h2>
 <ul>
 <li>I took gitignore file from <a href='https://github.com/dotnet/core/blob/main/.gitignore'>here</a></li>
-<li>permissions are set nicely via 'dotnet user-secrets set scopes'</li>
+<li>permissions are set nicely in developemnt via 'dotnet user-secrets set scopes'</li>
 <li>the user is asked to sign in and enter a code thus it does not fit machine to machine scenario</li>
 </ul>
 
